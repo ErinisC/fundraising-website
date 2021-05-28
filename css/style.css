@@ -16,7 +16,7 @@ img {
 
 /* main css start */
 
-.navbar-brand {
-  width: 111px;
-  height: 40px;
+.btn-warning {
+  background-color: #ffdf65;
+  border-color: #ffdf65;
 }
