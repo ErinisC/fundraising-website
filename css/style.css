@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Noto Sans TC","Baloo Tamma 2";
+    
+}
+
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+
+
+.ff-bt2{
+    font-family: "Baloo Tamma 2";
+  }
