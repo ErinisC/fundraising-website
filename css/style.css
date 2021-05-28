@@ -1,20 +1,22 @@
-*{
-    box-sizing: border-box;
+* {
+  box-sizing: border-box;
 }
 
-body{
-    font-family: "Noto Sans TC","Baloo Tamma 2";
-    
+body {
+  font-family: "Noto Sans TC", "Baloo Tamma 2";
+}
+.ff-bt2 {
+  font-family: "Baloo Tamma 2";
 }
 
-
-img{
-    width: 100%;
-    height: auto;
+img {
+  width: 100%;
+  height: auto;
 }
 
+/* main css start */
 
-
-.ff-bt2{
-    font-family: "Baloo Tamma 2";
-  }
+.navbar-brand {
+  width: 111px;
+  height: 40px;
+}
